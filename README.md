@@ -13,7 +13,7 @@ git clone https://github.com/emirhan-turkmen/kodluyoruzilkrepo
 ------------------------------------------------------------------------------------------------
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-```
+```html
 cd kodluyoruz repo
 code .
 ```
